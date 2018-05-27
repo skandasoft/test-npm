@@ -1,0 +1,22 @@
+{
+  "name": "@skandasoft/test-npm",
+  "version": "1.0.0",
+  "description": "test-npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skandasoft/test-npm.git"
+  },
+  "keywords": [
+    "test-npm"
+  ],
+  "author": "SkandaSoft <skandasoftinc@gmail.com> (http://skandasoft.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skandasoft/test-npm/issues"
+  },
+  "homepage": "https://github.com/skandasoft/test-npm#readme"
+}
