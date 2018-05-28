@@ -1,6 +1,6 @@
 {
   "name": "@skandasoft/test-npm",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "test-npm",
   "main": "dist/main.js",
   "scripts": {
