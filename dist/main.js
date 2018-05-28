@@ -75,11 +75,11 @@
 /*!**********************!*\
   !*** ./src/index.js ***!
   \**********************/
-/*! exports provided: hi, hola */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"hi\", function() { return hi; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"hola\", function() { return hola; });\nvar hi = function(){\r\n    console.log('hi there');\r\n}\r\n\r\nvar hola = function(){\r\n    console.log('hola there')\r\n}\n\n//# sourceURL=webpack:///./src/index.js?");
+eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n    value: true\n});\nvar hi = exports.hi = function hi() {\n    console.log('hi there');\n};\n\nvar hola = exports.hola = function hola() {\n    console.log('hola there');\n};\n\n//# sourceURL=webpack:///./src/index.js?");
 
 /***/ })
 
