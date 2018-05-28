@@ -5,3 +5,5 @@ export var hi = function(){
 export var hola = function(){
     console.log('hola there')
 }
+
+export default { hi, hola}
