@@ -79,7 +79,7 @@
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n    value: true\n});\nvar hi = exports.hi = function hi() {\n    console.log('hi there');\n};\n\nvar hola = exports.hola = function hola() {\n    console.log('hola thier');\n};\n\nexports.default = { hi: hi, hola: hola };\n\n//# sourceURL=webpack:///./src/index.js?");
+eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n    value: true\n});\nvar hi = exports.hi = function hi() {\n    console.log('hi there');\n};\n\nvar hola = exports.hola = function hola() {\n    console.log('hola ther');\n};\n\nexports.default = { hi: hi, hola: hola };\n\n//# sourceURL=webpack:///./src/index.js?");
 
 /***/ })
 

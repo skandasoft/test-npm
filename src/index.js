@@ -4,7 +4,8 @@ export var hi = function(){
 
 
 export var hola = function(){
-    console.log('hola thier')
+    console.log('hola ther')
 }
 
 export default { hi, hola}
+
