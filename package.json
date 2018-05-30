@@ -1,6 +1,6 @@
 {
   "name": "@skandasoft/test-npm",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "description": "test-npm",
   "main": "index.js",
   "scripts": {
